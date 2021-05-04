@@ -3,4 +3,4 @@ A smart parking system with IoT
 
 ## Breadboard Layout
 
-![image]()
+![image](https://github.com/r3wnad/Smart-Parking/blob/main/Fritzing_bb.png)
