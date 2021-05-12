@@ -16,7 +16,7 @@ Measuring Angle: 15°.
 
 **Pin-out**
 
-VCC: Power, GND: Ground, TRIG: trigger output, ECHO: echo input
+VCC: *Power*, GND: *Ground*, TRIG: *trigger output*, ECHO: *echo input*
 
 ### LCD 
 Operating voltage:	5±0.3V DC,
@@ -48,7 +48,7 @@ Detection range: 2cm – 30cm (Adjustable)
 
 **Pin-out**
 
-VCC: 3.3V-5V, GND: Ground, OUT: Digital Output Pin
+VCC: _3.3V-5V_, GND: _Ground_, OUT: _Digital Output Pin_
 
 ### SG90 Servo Motor
 
@@ -62,9 +62,9 @@ Gear Type: Plastic.
 
 **Pin-out**
 
-Red Colour- Supply,
-Orange Colour- PWM (Signal),
-Brown Colour- GND.
+Red Colour- _Supply_,
+Orange Colour- _PWM (Signal)_,
+Brown Colour- _GND_.
 
 ## Breadboard Layout
 
