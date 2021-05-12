@@ -16,7 +16,7 @@ Measuring Angle: 15°.
 
 **Pin-out**
 
-VCC: Power GND: Ground TRIG: trigger output ECHO: echo input
+VCC: Power, GND: Ground, TRIG: trigger output, ECHO: echo input
 
 ### LCD 
 Operating voltage:	5±0.3V DC,
